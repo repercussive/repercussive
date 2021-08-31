@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Liam Robertson! I'm a programmer, musician and rollercoaster enthusiast.
 - ⚙️ I have experience with HTML/CSS/JavaScript, React, TypeScript, NextJS, MobX, and Unity/C#.
-- 🌱 I’m currently learning NodeJS/Express.
+- 🛠 I'm currently building a secret project.
 - 📖 I have a blog where you can learn interesting things. Check it out at www.wikidive.blog
 - 📫 You can reach me at liam2robertson@gmail.com

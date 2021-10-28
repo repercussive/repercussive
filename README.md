@@ -7,5 +7,4 @@
   - 🔥 Firebase, Firestore noSQL database
   - 🎮 Unity/C#
 - 🛠 I'm currently building a secret project.
-- 📖 I have a blog where you can learn interesting things. Check it out at www.wikidive.blog
 - 📫 You can reach me at liam2robertson@gmail.com

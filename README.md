@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Liam Robertson! I'm a programmer, musician and rollercoaster enthusiast.
-- ⚙️ I have experience with:
-  - 🌐 HTML/CSS/JavaScript
-  - ⚡ React, MobX
-  - 👨‍💻 TypeScript
-  - ⏩ NextJS
-  - 🔥 Firebase, Firestore noSQL database
-  - 🎮 Unity/C#
-- 🛠 I'm currently building a secret project.
-- 📫 You can reach me at liam2robertson@gmail.com
+👋 Hi, I’m Liam Robertson!
+
+If you want to find out more about me, check out my [portfolio site](https://liamrobertson.pages.dev/).
